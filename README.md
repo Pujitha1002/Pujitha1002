@@ -757,7 +757,7 @@
     <div class="services container">
       <div class="service-top">
         <h1 class="section-title">Sk<span>i</span>lls</h1>
-        <p>I am pretty decent at communication skills.<br>I am good at PYTHON,JAVA,HTML,CSS and I am interested in learning other coding languages.<
+        <p>I am pretty decent at communication skills.<br>I am good at PYTHON,JAVA,HTML,CSS and I am interested in learning other coding languages.<br>
           I am able to do front end developping for any kind of website. </p>
       </div>
       <div class="service-bottom">
@@ -883,10 +883,10 @@
       <h2>Your Complete Web Solution</h2>
       <div class="social-icon">
         <div class="social-item">
-          <a href="https://www.facebook.com/Pujitha.Mannava.98" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png
+          <a href="https://www.facebook.com/Pujitha.Mannava.98" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
         </div>
         <div class="social-item">
-          <a href="https://www.instagram.com/pujitham_10.02/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"
+          <a href="https://www.instagram.com/pujitham_10.02/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
         </div>
         <div class="social-item">
           <a href="https://twitter.com/@PujithaMannava" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
