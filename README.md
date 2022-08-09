@@ -892,7 +892,7 @@
           <a href="https://twitter.com/@PujithaMannava" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
         </div>
       </div>
-      <p>Copyright © 2022 Pujitha. All rights reserved</p>
+      <p>Copyright © 2020 Pujitha. All rights reserved</p>
     </div>
   </section>
   <!-- End Footer -->
